@@ -58,7 +58,7 @@ Ctrl + w                Command + w
 Ctrl + b                Command + b
 
 # Toggle terminal
-Ctrl + `                Command + `
+Ctrl + backtick         Command + backtick
 
 # Making all lines as an inline comment
 Ctrl + /                Command + /
@@ -66,3 +66,7 @@ Ctrl + shift + /        Command + shift + /
 
 # Select lines above or below the current line
 Ctrl + shift + arrow    Command + shift + arrow
+
+# Select the next word where the cursor is located at
+Ctrl + d                Command + d
+
