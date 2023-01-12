@@ -70,3 +70,5 @@ Ctrl + shift + arrow    Command + shift + arrow
 # Select the next word where the cursor is located at
 Ctrl + d                Command + d
 
+# Move the selected lines up or down
+alt + arrow             option + arrow
