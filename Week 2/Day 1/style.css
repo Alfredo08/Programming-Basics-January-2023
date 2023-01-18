@@ -1,0 +1,19 @@
+h1{
+    color: white;
+    font-weight: bold;
+    font-family: verdana;
+}
+.main_title{
+    background-color: black;
+    color: red;
+    text-align: center;
+}
+
+.div_description{
+    color: red;
+    background-color:blue;
+}
+.link{
+    color: black;
+    text-decoration: none;
+}
