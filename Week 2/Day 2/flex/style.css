@@ -1,0 +1,26 @@
+*{
+    color: white;
+}
+.navbar{
+    background-color: rgb(97, 206, 242);
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    width: 100%;
+}
+img{
+    height: 50px;
+}
+
+ul{
+    display: flex;
+    width: 70%;
+}
+
+li{
+    list-style: none;
+    margin-right: 100px;
+}
+a{
+    text-decoration: none;
+}
